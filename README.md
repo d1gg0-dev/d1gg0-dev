@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">Hey 👋What's Up?</h1>
+<h1 align="left">Hey👋, What's Up?</h1>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">Rodrigo Martins</h2>
+<h2 align="left">Rodrigo Martins 👑</h2>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="left">A little more about me...</h3>
+<h3 align="left">👨‍🦱 A little more about me...</h3>
 
 ###
 
@@ -68,7 +68,7 @@
         {
             crossPlatform: ["Flutter"],
         },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        devOps: ["Docker", "CI/CD", "Nginx", "GitHub Actions"],
         cloudServices: 
         {
             aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
@@ -87,7 +87,7 @@
         databases: ["Relational", "NoSQL", "In-memory"],
     },
     -->
-    currentFocus: "Focusing on Computer Science studies!",
+    currentFocus: "🖥️ Focusing on Computer Science studies!",
     extra: "I don't study for tests! Focus on learning, not memorizing."
 };
 </pre>
@@ -121,6 +121,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" alt="vim logo"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://d1gg0-dev.github.io/d1gg0-dev/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://d1gg0-dev.github.io/d1gg0-dev/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://d1gg0-dev.github.io/d1gg0-dev/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
