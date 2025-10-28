@@ -18,7 +18,7 @@
 ###
 
 <p align="left">
-  I'm Rodrigo Martins, a Computer Science undergraduate at UFRRJ, working as a back-end developer with solid expertise in C/C++ and Java.
+  I'm Rodrigo Martins, a Computer Science undergraduate at UFRRJ, working as a back-end developer with solid expertise in C/C++, Python and Java.
 </p>
 
 ###
@@ -30,7 +30,7 @@
 ###
 
 <p align="left">
-  I am a Computer Science student with experience in a wide range of technologies. I have solid skills in web development (both front-end and back-end) and am passionate about software engineering. I am proficient in C/C++ and Python, and have studied and gained experience with Java, JavaScript, TypeScript, Rust, in addition to being familiar with tools like mySQL, HTML, and CSS.
+  I am a Computer Science student with experience in a wide range of technologies. I have solid skills in web development (both front-end and back-end) and am passionate about software engineering. I am proficient in C/C++, Python and Java, and have studied and gained experience with JavaScript, TypeScript, Rust, in addition to being familiar with tools like mySQL, HTML, and CSS.
   
   In front-end development, I have experience with frameworks like React, Next.js, and Angular, and I am comfortable with CSS, including Sass, Tailwind, and Bootstrap.
   
